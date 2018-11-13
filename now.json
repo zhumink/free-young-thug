@@ -1,6 +1,5 @@
+
 {
-    "version": 1
-}
-{
-    "alias": ["freeyoungthug.org"]
+   "version": 2,
+   "alias": ["freeyoungthug.org"]
 }
